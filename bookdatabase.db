@@ -1,0 +1,8 @@
+SQLite formate 3 
+
+
+
+title VARCHAR(80)NOT NULL,
+PRIMARY KEY(title),
+UNIQUE (title)
+)indexsqlite_autoindex_book_1book
